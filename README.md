@@ -45,7 +45,7 @@ To replicate the analysis:
 
 1.  Clone the repo:
     ```bash
-    git clone [https://github.com/yourusername/arbitrage-frictions-csi300.git](https://github.com/yourusername/arbitrage-frictions-csi300.git)
+    git clone [https://github.com/horvathsebi/arbitrage-frictions-csi300.git](https://github.com/horvathsebi/arbitrage-frictions-csi300.git)
     ```
 2.  Install dependencies:
     ```bash
