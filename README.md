@@ -59,9 +59,9 @@ To replicate the analysis:
 ## Dissertation Availability
 **Dissertation Title:** *The Impact of Arbitrage Frictions on Hedging Effectiveness in the CSI 300 Futures Market*
 
-**Status:** Submitted for Grading (December 2025)
+**Status:** Graded (January 2026) Grade received: 75
 
-> The full text of the dissertation currently **available upon request**.
+> Full dissertation **available at [AWP.pdf](./AWP.pdf)**.
 
 ## Author
 **Sebestyén Horváth**
